@@ -1,6 +1,6 @@
 ![confident-woman-working-at-computer-with-digital-elements-technology](https://github.com/user-attachments/assets/2b2d4d55-ceeb-422f-b359-04f0bcaabd8d)
 
-# **Mariam Maysara**
+# Hello 👋
 
 I’m **Mariam Maysara**, a Computer Science graduate specialized in **Artificial Intelligence** from **King Salman International University**.  
 I’m passionate about **AI**, especially **NLP, LLMs, Generative AI, and Agentic AI**.  
