@@ -1,25 +1,61 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+![Header](https://raw.githubusercontent.com/mariiammaysara/mariiammaysara/main/header.png)
 
-I am Mariam Maysara, a recent Computer Science graduate specialized in Artificial Intelligence from [King Salman International University](https://ksiu.edu.eg/). I am passionate about AI, especially **NLP, LLMs, Generative AI, and Agentic AI**. Always excited to collaborate on innovative projects and AI research. Feel free to connect with me here:
+# **Mariam Maysara**
 
-[![Linkedin Badge](https://img.shields.io/badge/-MariamMaysara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariemmaysara/)](https://www.linkedin.com/in/mariemmaysara/)
-[![Kaggle Badge](https://img.shields.io/badge/-MariamMaysara-orange?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/mariemmaysara)](https://www.kaggle.com/mariemmaysara)
-[![GitHub Badge](https://img.shields.io/badge/-MariamMaysara-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/mariiammaysara)](https://github.com/mariiammaysara)
-[![Gmail Badge](https://img.shields.io/badge/-mariemmaysara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariemmaysara@gmail.com)](mailto:mariemmaysara@gmail.com)
+I’m **Mariam Maysara**, a Computer Science graduate specialized in **Artificial Intelligence** from **King Salman International University**.  
+I’m passionate about **AI**, especially **NLP, LLMs, Generative AI, and Agentic AI**.  
 
-## ⚡ Technologies & AI Skills
+---
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EF3E2E?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF9900?style=flat-square&logo=huggingface)
-![Transformers](https://img.shields.io/badge/-Transformers-EE6C4D?style=flat-square)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+## **Let’s Connect**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mariiammaysara&count_private=true&show_icons=true&include_all_commits=true)
+[![LinkedIn Badge](https://img.shields.io/badge/-MariamMaysara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariam-maysara/)](https://www.linkedin.com/in/mariam-maysara/) 
+[![Kaggle Badge](https://img.shields.io/badge/-MariamMaysara-orange?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/mariemmaysara)](https://www.kaggle.com/mariemmaysara) 
+[![GitHub Badge](https://img.shields.io/badge/-MariamMaysara-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/mariiammaysara)](https://github.com/mariiammaysara) 
+[![Gmail Badge](https://img.shields.io/badge/-mariammaysara.ai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariammaysara.ai@gmail.com)](mailto:mariammaysara.ai@gmail.com)
+
+---
+
+## **Key Skills**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine_Learning-FBBF24?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Deep_Learning-EF3B2D?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data_Visualization-008080?style=flat-square&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data_Cleaning-FF6F61?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RAG-4B0082?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MCP-0F52BA?style=flat-square&logo=Python&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-SQL-FF0000?style=flat-square&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Computer_Vision-00CED1?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI_Ethics-FFD700?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ML_Explainability-DA70D6?style=flat-square&logo=Python&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-PyTorch-EF3B2D?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FBA919?style=flat-square&logo=HuggingFace&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Transformers-000000?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-4B0082?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NLP-008080?style=flat-square&logo=Apache&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
+</p>
+
+---
+
+## **Visitor Count**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mariiammaysara.mariiammaysara)
