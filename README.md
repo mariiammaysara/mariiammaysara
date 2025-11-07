@@ -2,8 +2,12 @@
 
 # Hello 👋
 
-I’m **Mariam Maysara**, a Computer Science graduate specialized in **Artificial Intelligence** from **King Salman International University**.  
-I’m passionate about **AI**, especially **NLP, LLMs, Generative AI, and Agentic AI**.  
+I'm **Mariam Maysara**, a Computer Science graduate specialized in **Artificial Intelligence** from *King Salman International University*.  
+I’m passionate about **Applied AI**, especially **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Generative AI**, and **Agentic Systems**.  
+
+🔹 Currently building hands-on AI projects integrating OpenAI, Gemini, and LangChain.  
+🔹 My goal is to bridge theory with practice by developing real-world intelligent systems that make life smarter and easier.  
+
 
 ---
 
