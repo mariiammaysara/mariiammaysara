@@ -6,8 +6,12 @@
   <img 
     src="https://github.com/user-attachments/assets/a19e9324-78e7-4687-a2f0-877166195116" 
     alt="AI Engineer at Work"
-    width="450"
+    width="480"
   />
+  <br>
+  <samp>
+    🚀 <b>Engineered</b> <a href="https://veonix-u8yw.onrender.com">Veonix</a> • 🛠️ <b>Innovating</b> <b>Maimo</b>
+  </samp>
 </p>
 
 ---
