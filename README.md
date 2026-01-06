@@ -1,5 +1,5 @@
 <p align="center">
-  <h1><code>Full Stack AI Engineer | NLP • LLMs • Agentic Systems</code></h1>
+  <h1><code>Full Stack AI Engineer |Applied AI • NLP • LLMs • Agentic Systems</code></h1>
 </p>
 
 <p align="center">
