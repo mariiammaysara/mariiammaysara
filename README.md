@@ -1,5 +1,5 @@
 <p align="center">
-  <h1><code>AI Engineer | Applied AI • NLP • LLMs • Agentic Systems</code></h1>
+  <h1><code>Full Stack AI Engineer | NLP • LLMs • Agentic Systems</code></h1>
 </p>
 
 <p align="center">
@@ -39,10 +39,18 @@ I architect **Production-Ready AI Systems**, bridging the gap between advanced *
 | **Testing & Tools** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) <br> API Testing, Logging & Error Handling, Performance Debugging |
 | **Additional Skills** | Arabic & English AI Interfaces, AI-Powered Dashboards, Adaptive Learning Systems, Production-Ready AI Systems |
 
----
 
 ---
 
+## GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariiammaysara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariiammaysara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/mariam-maysara/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
