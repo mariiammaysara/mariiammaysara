@@ -1,6 +1,6 @@
-<p align="center">
-  <h1><code> AI Engineer</code></h1>
-</p>
+<div align="center">
+  <h1><code> AI Engineer </code></h1>
+</div>
 
 <p align="center">
   <img 
