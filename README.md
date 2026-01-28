@@ -8,7 +8,7 @@
     alt="AI Engineer at Work"
     width="480"
   />
-  <br>
+  <br> 
   <samp>
     🚀 <b>Engineered</b> <a href="https://veonix-u8yw.onrender.com">Veonix</a> • 🛠️ <b>Innovating</b> <b>Maimo</b>
   </samp>
