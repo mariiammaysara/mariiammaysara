@@ -3,11 +3,12 @@
 </div>
 
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/a19e9324-78e7-4687-a2f0-877166195116" 
+  <img
+    src="https://github.com/user-attachments/assets/6217c537-73cd-4288-87b9-a46cef4a8148"
     alt="AI Engineer at Work"
-    width="480"
-  />
+    style="max-width:600px; width:100%;"
+  
+</p>
   <br> 
   <samp>
     🚀 <b>Engineered</b> <a href="https://veonix-u8yw.onrender.com">Veonix</a> • 🛠️ <b>Innovating</b> <b>Maimo</b>
