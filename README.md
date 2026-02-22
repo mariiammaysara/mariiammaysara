@@ -1,6 +1,6 @@
-<div align="center">
-  <h1><code> AI Engineer </code></h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2800&pause=900&color=5A4FCF&center=true&vCenter=true&width=950&lines=Full+Stack+AI+Engineer;Building+Intelligent+Systems;Turning+Knowledge+into+Products;RAG+Architect;AI+x+Systems+x+Impact" />
+</p>
 
 <p align="center">
   <img
