@@ -11,7 +11,7 @@
 </p>
   <br> 
   <samp>
-    🚀 <b>Engineered</b> <a href="veonix.mariammaysara.com/">Veonix</a> • 🛠️ <b>Innovating</b> <b>Maimo</b>
+    🚀 <b>Engineered</b> <a href="https://veonix.mariammaysara.com/">Veonix</a> • 🛠️ <b>Innovating</b> <b>Maimo</b>
   </samp>
 </p>
 
