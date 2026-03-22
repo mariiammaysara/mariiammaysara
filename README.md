@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://mariam-dev-delta.vercel.app)&nbsp;
+[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://mariammaysara.com)&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/mariam-maysara)&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:mariammaysara.ai@gmail.com)&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/mariiammaysara)
@@ -28,20 +28,15 @@
 ```python
 mariam = {
     "role"     : "Full-Stack AI Engineer",
-    "focus"    : ["LLMs", "RAG", "Computer Vision", "Production ML"],
-    "stack"    : ["Python", "PyTorch", "FastAPI", "Next.js", "LangChain"],
+    "focus"    : ["Production ML", "RAG Pipelines", "LLMs", "Full-Stack AI Apps"],
     "status"   : "Available for opportunities",
     "location" : "Cairo, Egypt"
 }
 ```
 
----
-
-### Tech Stack
-
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,postgres,supabase,nextjs,react,ts,tailwind,vercel,git&theme=dark&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,postgres,supabase,nextjs,react,ts,tailwind,vercel,git&theme=dark&perline=12)](https://skillicons.dev)
 
 </div>
 
