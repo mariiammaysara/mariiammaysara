@@ -1,71 +1,67 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2800&pause=900&color=5A4FCF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer;Building+Intelligent+Systems;Turning+Knowledge+into+Products;RAG+Architect;AI+x+Systems+x+Impact" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/6217c537-73cd-4288-87b9-a46cef4a8148"
-    alt="AI Engineer at Work"
-    style="max-width:600px; width:100%;"
-  
-</p>
-  <br> 
-  <samp>
-    🚀 <b>Engineered</b> <a href="https://veonix.mariammaysara.com/">Veonix</a> • 🛠️ <b>Innovating</b> <b>Maimo</b>
-  </samp>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mariam%20Maysara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
----
+</div>
 
-</p>
+<div align="center">
 
-## Hello
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A9FEF7&center=true&vCenter=true&width=500&lines=Building+intelligent+systems;Fine-tuned+LLMs+%26+RAG+pipelines;From+model+to+production)](https://git.io/typing-svg)
 
-I'm **Mariam Maysara**, a **Computer Science Graduate (B.Sc.)** specializing in **Artificial Intelligence**.
-I architect **Production-Ready AI Systems**, bridging the gap between advanced **LLMs** and scalable **Full-Stack Applications**.
+<br/>
 
-- Engineering autonomous **Agentic Systems** with LangChain, OpenAI, and Gemini.
-- Transforming AI research into high-performance, real-world solutions.
-- Focused on **NLP**, **Generative AI**, and **Agentic Workflows**.
+[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://mariam-dev-delta.vercel.app)&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/mariam-maysara)&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:mariammaysara.ai@gmail.com)&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/mariiammaysara)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=mariiammaysara&color=A9FEF7&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
-## Technical Stack
+### About
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Artificial Intelligence & ML** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EF3B2D?style=flat-square&logo=PyTorch&logoColor=white) <br> Deep Learning (CNNs, Transfer Learning), Computer Vision, NLP, LLMs & Multimodal AI, Prompt Engineering, Model Fine-Tuning, Ensemble Methods |
-| **AI Frameworks & Agents** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FBA919?style=flat-square&logo=HuggingFace&logoColor=white) <br> LangGraph, CrewAI, AutoGen, Google Gemini API, Groq API, AI Agents Architecture, Session-Based Memory Systems |
-| **Backend Development** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) <br> RESTful APIs, JWT Authentication, SQLAlchemy, Supabase |
-| **Frontend Development** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) <br> Framer Motion, ShadCN UI, Dark UI / Cinematic Design, Interactive Animations |
-| **Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) <br> Firebase Firestore, Cloud Storage |
-| **DevOps & Deployment** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white) ![Railway](https://img.shields.io/badge/-Railway-131415?style=flat-square&logo=railway&logoColor=white) <br> Docker Compose, CI/CD Basics, Render, Environment Variables (.env) |
-| **Data & Utilities** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) <br> Matplotlib, Data Visualization, Excel Integration, Session Analytics |
-| **Testing & Tools** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) <br> API Testing, Logging & Error Handling, Performance Debugging |
-| **Additional Skills** | Arabic & English AI Interfaces, AI-Powered Dashboards, Adaptive Learning Systems, Production-Ready AI Systems |
-
+```python
+mariam = {
+    "role"     : "Full-Stack AI Engineer",
+    "focus"    : ["LLMs", "RAG", "Computer Vision", "Production ML"],
+    "stack"    : ["Python", "PyTorch", "FastAPI", "Next.js", "LangChain"],
+    "status"   : "Available for opportunities",
+    "location" : "Cairo, Egypt"
+}
+```
 
 ---
 
-## GitHub Insights
+### Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariiammaysara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariiammaysara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,postgres,supabase,nextjs,react,ts,tailwind,vercel,git&theme=dark&perline=13)](https://skillicons.dev)
+
+</div>
 
 ---
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariam-maysara/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mariiammaysara">
-    <img src="https://skillicons.dev/icons?i=github" height="35" />
-  </a>
-  &nbsp;
-  <a href="mailto:mariammaysara.ai@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35" />
-  </a>
-</p>
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=mariiammaysara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&icon_color=A9FEF7&count_private=true&rank_icon=github" />&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariiammaysara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&langs_count=4" />
+
+<br/>
+
+<img height="130" src="https://streak-stats.demolab.com?user=mariiammaysara&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=C9D1D9&short_numbers=true" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
+</div>
