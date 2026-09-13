@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A9FEF7&center=true&vCenter=true&width=500&lines=Building+intelligent+systems;Fine-tuned+LLMs+%26+RAG+pipelines;From+model+to+production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=500&lines=Building+intelligent+systems;Fine-tuned+LLMs+%26+RAG+pipelines;From+model+to+production)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=mariiammaysara&color=A9FEF7&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=mariiammaysara&color=2DD4BF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -43,5 +43,5 @@ mariam = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
